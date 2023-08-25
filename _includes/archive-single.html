@@ -49,7 +49,7 @@
           <p>Current status: {{ post.status }}</p>
         {% elsif post.collection == 'publications' %}
           {% if post.conference %}
-            <p>Published in Proceedings of <i>{{ post.conference }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>Published in <i>Proceedings of {{ post.conference }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.journal %}
             <p>Published in <i>{{ post.journal }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
