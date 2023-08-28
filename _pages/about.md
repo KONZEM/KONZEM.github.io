@@ -10,7 +10,7 @@ redirect_from:
 
 He is currently studying for a master's degree in Computer Science and Technology at <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University</a> and advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=o7Wj-9sAAAAJ">Yunong Zhang</a>. Previously, he received his bachelor's degree from <a href="https://cse.sysu.edu.cn/">School of  Computer Science and Engineering</a>, Sun Yat-sen University. His bachelor's thesis was advised by Prof. Yunong Zhang.
 
-He is interested in optimization and robotics. His current research is about solving dynamic (or rather time-dependent) problems in real time, including unconstrained/constrained optimization, linear/nonlinear equation system, focusing on design and analyses of algorithms, with applications in dealing with modern data science and machine learning problems. Recently, he has started delving in SLAM and tried to read and comprehend the source code of ORB-SLAM2/3.
+He is interested in optimization and robotics. His current research is about solving dynamic (or rather time-dependent) problems in real time, including unconstrained/constrained optimization, linear/nonlinear equation system, focusing on design and analyses of algorithms, with applications in dealing with modern data science and machine learning problems. Recently, he has started delving in SLAM.
 
 ## Education
 
