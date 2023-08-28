@@ -14,18 +14,18 @@ He is interested in optimization and robotics. His current research is about sol
 
 ## Education
 
-<i class="fa fa-graduation-cap"></i> Master student in Computer Science and Technology at Sun Yat-sen University, Sept. 2021 -- Present.
+<i class="fa fa-graduation-cap"></i> Master in Computer Science and Technology at Sun Yat-sen University, Jun. 2024 (Expected).
 
-<i class="fa fa-graduation-cap"></i> Bachelor of Engineering in Computer Science and Technology at Sun Yat-sen University, Sept. 2017 -- Jun. 2021.
+<i class="fa fa-graduation-cap"></i> Bachelor of Engineering in Computer Science and Technology at Sun Yat-sen University, Jun. 2021.
 
 
 
 ## Scholarship
 
 <ul>
-    <li>First-Prize Postgraduate Scholorship, Sun Yat-sen University, 2022.</li>
-    <li>Second-Prize Undergraduate Scholorship, Sun Yat-sen University, 2020 and 2019.</li>
-    <li>Third-Prize Undergraduate Scholorship, Sun Yat-sen University, 2018.</li>
+    <li>First-Prize Postgraduate Scholorship, Sun Yat-sen University (Top 30%), 2022.</li>
+    <li>Second-Prize Undergraduate Scholorship, Sun Yat-sen University (Top 15%), 2020 and 2019.</li>
+    <li>Third-Prize Undergraduate Scholorship, Sun Yat-sen University (Top 30%), 2018.</li>
 </ul>
 
 
@@ -42,7 +42,9 @@ He is interested in optimization and robotics. His current research is about sol
 ## Academic Service
 
 <ul>
-    <li>Reviewer for International Conference on Information Science and Technology 2023.</li>
+    <li>Reviewer for International Conference on Information Science and Technology, 2023.</li>
+    <li>Teaching Assistant for Numerical Methods, 2023</li>
+    <li>Teaching Assistant for MATLAB Computation and Simulation, 2022</li>
 </ul>
 
 
