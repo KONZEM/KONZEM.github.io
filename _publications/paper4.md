@@ -3,7 +3,7 @@ title: "Low-Computational-Complexity Zeroing Neural Network Model for Solving Sy
 collection: publications
 permalink: /publication/paper4
 excerpt: ''
-date: 2023-09-25
+date: 2023-09-18
 journal: 'IEEE Transactions on Automatic Control'
 published: 'true'
 paperurl: 'http://konzem.github.io/files/paper4.pdf'
