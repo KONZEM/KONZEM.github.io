@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper5
 excerpt: ''
 date: 2023-05-19
-journal: 'IEEE Transactions on Cybernetics'
+journal: 'IEEE/CAA Journal of Automatica Sinica'
 published: 'false'
 status: 'Under review'
 ---
