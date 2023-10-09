@@ -3,7 +3,7 @@ title: "Nonlinear Integral-Augmented Model for Dynamic Convex Optimization with 
 collection: publications
 permalink: /publication/paper5
 excerpt: ''
-date: 2023-05-19
+date: 2023-10-20
 journal: 'IEEE/CAA Journal of Automatica Sinica'
 published: 'false'
 status: 'Under review'
